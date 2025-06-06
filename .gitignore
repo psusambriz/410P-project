@@ -1,0 +1,18 @@
+# Rust
+/ target /
+/ .cargo /
+
+# IDEs
+.idea/
+.vscode/
+.CS_Store 
+*.iml
+
+# OS specific
+Thumbs.db
+
+# SQLx
+/db/
+/ .sqlx/
+# Enviroment variables
+. env 
